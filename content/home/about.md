@@ -26,5 +26,5 @@ weight = 5
 
 # Biography
 
-Izzy Owen is a PhD student at the Uniformed Services University of the Health Sciences. Her research interests include basic cellular biology and cell signaling. She is super cool and also has a great personality. 
+Izzy Owen is a PhD student at the Uniformed Services University of the Health Sciences. Her research interests include basic cellular biology and cell signaling. She is super cool and also has a great personality.
 
